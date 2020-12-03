@@ -1,7 +1,6 @@
 {
   "name": "web-app-server-basics",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "dependencies": {
     "express": "^4.17.1",
@@ -14,5 +13,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roman-Denysenko/web-app-server-basics.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Roman-Denysenko/web-app-server-basics/issues"
+  },
+  "homepage": "https://github.com/Roman-Denysenko/web-app-server-basics#readme",
+  "description": ""
 }

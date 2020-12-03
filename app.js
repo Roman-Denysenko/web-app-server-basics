@@ -21,7 +21,7 @@ app.get(`/`, function (req, res) {
     
 app.get('/about', function (req, res) {
     res.render(`about`, {
-         titleName: `О нас`,
+         titleName: `О нас`
     })
 })
 
@@ -34,6 +34,6 @@ app.get('/products', function (req, res) {
 })
  
 
-app.listen(1313, () => {
+app.listen(PORT, () => {
     console.log(`app-server running ${PORT}`)
 });

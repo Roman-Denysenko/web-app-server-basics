@@ -35,5 +35,5 @@ app.get('/products', function (req, res) {
  
 
 app.listen(1313, () => {
-    console.log(`app-server runing ${PORT}`)
+    console.log(`app-server running ${PORT}`)
 });
